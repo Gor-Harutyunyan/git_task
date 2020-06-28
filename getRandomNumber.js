@@ -7,3 +7,7 @@ function getRandomLetter(length) {
     }
     return result;
  }
+
+ getRandomLetter(3);
+ getRandomLetter(5);
+ getRandomLetter(10);
